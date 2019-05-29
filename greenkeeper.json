@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ghost/content/themes/casper/package.json",
+        "ghost/package.json"
+      ]
+    }
+  }
+}
